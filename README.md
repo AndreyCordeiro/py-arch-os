@@ -10,6 +10,14 @@ Sistema desenvolvido como trabalho avaliativo da matéria de **Sistemas Operacio
 - Curses
 
 ---
+## Como rodar o projeto
+Para executar o projeto abra o terminal e digite:
+
+```bash
+py -2 pysim.py
+```
+
+---
 
 ## Alunos
 - Andrey Silva Cordeiro
